@@ -1,0 +1,4 @@
+repository "labyrinthGame@theGameJamGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
